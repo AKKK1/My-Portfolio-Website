@@ -3,7 +3,7 @@
   <!-- HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=AKAKI%20CHACHAVA&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
-  <h3>🚀 Fullstack Developer | Founder of <a href="https://ubani.website/">Ubani.website</a></h3>
+  <h3>🚀 Fullstack Developer | Founder of <a href="https://ubani.website/">Ubani</a></h3>
 
   <p>
     <a href="https://git.io/typing-svg">
